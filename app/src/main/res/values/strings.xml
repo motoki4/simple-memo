@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleMemo</string>
+    <string name="app_title">シンプルメモ帳</string>
+    <string name="save">保存</string>
+    <string name="empty_state">まだメモがありません。左上のフォームから最初のメモを書きましょう。</string>
+    <string name="edit_note">メモを編集</string>
+    <string name="cancel">キャンセル</string>
+    <string name="update">更新</string>
+    <string name="note_hint">ここにメモを書き込んでください</string>
+    <string name="last_updated">作成: %1$s</string>
+    <string name="edit_hint">内容を編集</string>
+    <string name="delete">削除</string>
+</resources>

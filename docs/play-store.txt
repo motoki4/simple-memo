@@ -1,0 +1,4 @@
+タイトル: シンプルメモ帳 - オフラインでサッと記録
+短い説明: オフライン対応のシンプルなメモ帳。すぐ書けてすぐ整理。
+長い説明 (日本語): シンプルメモ帳は、ネット接続がなくても思いついたアイデアや日々の記録を逃さず残せるオフライン専用メモアプリです。ホーム画面の大きな入力欄から複数行メモを保存すると、最新順でリストに自動整列。タップして編集、スワイプで削除でき、作成日時も一目で確認できます。Material You ベースのライト/ダーク切り替えに対応し、使うほど自分に馴染む快適な操作性を提供します。データは端末内にのみ保存されるため、個人情報を気にせず安心してお使いいただけます。
+長い説明 (English): SimpleMemo is an offline-first memo pad that lets you capture ideas and daily notes even when you are away from the network. Save multi-line entries from the spacious input area and they are automatically ordered by recency for quick browsing. Tap any memo to edit, swipe it away to delete, and check created timestamps at a glance. Material You styling adapts to light and dark themes, delivering a clean interface that feels at home on modern Android devices. All information stays securely on your device, so you can jot down thoughts with complete peace of mind.
